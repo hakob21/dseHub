@@ -24,4 +24,12 @@ public class HubNode {
     public void setContainerStationNodesAndDistances(Map<ContainerStationNode, Integer> containerStationNodesAndDistances) {
         this.containerStationNodesAndDistances = containerStationNodesAndDistances;
     }
+
+    public Map<HubNode, Integer> getHubNodeDestinations() {
+        return hubNodeDestinations;
+    }
+
+    public void setHubNodeDestinations(Map<HubNode, Integer> hubNodeDestinations) {
+        this.hubNodeDestinations = hubNodeDestinations;
+    }
 }

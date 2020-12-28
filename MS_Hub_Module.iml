@@ -21,6 +21,5 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.1" level="project" />
-    <orderEntry type="library" name="Maven: org.example:MF_Module:1.0-SNAPSHOT" level="project" />
   </component>
 </module>
